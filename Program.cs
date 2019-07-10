@@ -6,7 +6,14 @@ namespace euler_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            foreach(var arg in args)
+            {
+                Console.WriteLine($"############### Beginning to solve problem {arg} ###############");
+
+                // Do work here depending on problem
+
+                Console.WriteLine($"############### Finished ###############");
+            }            
         }
     }
 }

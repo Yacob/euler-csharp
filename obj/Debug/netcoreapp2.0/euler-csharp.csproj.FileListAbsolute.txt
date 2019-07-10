@@ -1,0 +1,10 @@
+C:\Users\Jacob Nestor\workspace\euler-csharp\bin\Debug\netcoreapp2.0\euler-csharp.deps.json
+C:\Users\Jacob Nestor\workspace\euler-csharp\bin\Debug\netcoreapp2.0\euler-csharp.runtimeconfig.json
+C:\Users\Jacob Nestor\workspace\euler-csharp\bin\Debug\netcoreapp2.0\euler-csharp.runtimeconfig.dev.json
+C:\Users\Jacob Nestor\workspace\euler-csharp\bin\Debug\netcoreapp2.0\euler-csharp.dll
+C:\Users\Jacob Nestor\workspace\euler-csharp\bin\Debug\netcoreapp2.0\euler-csharp.pdb
+C:\Users\Jacob Nestor\workspace\euler-csharp\obj\Debug\netcoreapp2.0\euler-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Nestor\workspace\euler-csharp\obj\Debug\netcoreapp2.0\euler-csharp.AssemblyInfoInputs.cache
+C:\Users\Jacob Nestor\workspace\euler-csharp\obj\Debug\netcoreapp2.0\euler-csharp.AssemblyInfo.cs
+C:\Users\Jacob Nestor\workspace\euler-csharp\obj\Debug\netcoreapp2.0\euler-csharp.dll
+C:\Users\Jacob Nestor\workspace\euler-csharp\obj\Debug\netcoreapp2.0\euler-csharp.pdb
